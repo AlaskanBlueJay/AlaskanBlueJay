@@ -1,7 +1,7 @@
-Hi! I'm Jay. I've been self-teaching programming for a litle over a year (since May 2024)
+Hi! I'm Jay. I've been self-teaching programming for a litle over a year (since May 2022)
 - I'm intermediately experienced in Python, HTML, CSS and JavaScript
 - I'm self-motivated, a hard worker, and a fast learner, and am very comfortable figuring out and overcoming problems on my own
-  - (8 months of my last year of study were spent living out of hostels and airbnbs in Europe completely on my own, which did a lot for my self-reliance)
+  - (8 months of my 2023 were spent living out of hostels and airbnbs in Europe completely on my own, which did a lot for my self-reliance)
 - Most of my expereince so far is in web development and some basic Python scripting, but I'd love to branch out into some machine learning soon too if I can, AI absolutely fascinates me!
 - I'd be interested in collaborating on pretty much anything for now. Programming is such a wide and interesting world, and I'm always starving for something new to learn.
 - I can be reached on discord @CodingCaffeind#5671 or by email at codingcaffeind@gmail.com (discord is the safer bet if you want to get in contact with me fast, I don't check email super often)
